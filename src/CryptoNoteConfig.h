@@ -194,8 +194,8 @@ const uint32_t P2P_IDLE_CONNECTION_KILL_INTERVAL             = (5 * 60);      //
 const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "";
 
 const char* const SEED_NODES[] = { 
-  "35.188.111.157:6663",
-  "94.237.72.183:6663"
+  "209.94.58.88:6663",
+  "5.22.220.179:6663"
   
 };
 
