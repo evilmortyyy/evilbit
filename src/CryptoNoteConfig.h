@@ -110,7 +110,7 @@ const uint32_t UPGRADE_HEIGHT_V3_1                           = 120; // Min fee v
 const uint32_t UPGRADE_HEIGHT_V4                             = 220; // Block v4, LWMA2, adaptive min fee, min mixin, disable slave merge mining
 const uint32_t UPGRADE_HEIGHT_V4_1                           = 320; // LWMA3
 const uint32_t UPGRADE_HEIGHT_V4_2                           = 420; // Fee per-byte for extra, ban unmixable denominations
-const uint32_t UPGRADE_HEIGHT_V5                             = 88888888888888; // Block v5, back to LWMA1+
+const uint32_t UPGRADE_HEIGHT_V5                             = 303500; // Block v5, back to LWMA1+
 
 const unsigned UPGRADE_VOTING_THRESHOLD                      = 90; // percent
 const uint32_t UPGRADE_VOTING_WINDOW                         = EXPECTED_NUMBER_OF_BLOCKS_PER_DAY;  // blocks
