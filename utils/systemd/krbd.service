@@ -1,5 +1,5 @@
 [Unit]
-Description=EvilMorty eMORTY service
+Description=evilbit service
 After=network.target
 
 [Service]
