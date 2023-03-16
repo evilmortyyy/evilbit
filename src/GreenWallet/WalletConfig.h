@@ -14,7 +14,7 @@ namespace WalletConfig
     const std::string addressPrefix = "eviLMo";
 
     /* Your coins 'Ticker', e.g. Monero = XMR, Bitcoin = BTC */
-    const std::string ticker = "eMORTY";
+    const std::string ticker = "EVI";
 
     /* The filename to output the CSV to in save_csv */
     const std::string csvFilename = "transactions.csv";
@@ -24,7 +24,7 @@ namespace WalletConfig
     const std::string addressBookFilename = ".addressBook.json";
 
     /* The name of your deamon */
-    const std::string daemonName = "evilmortyd";
+    const std::string daemonName = "evilbitd";
 
     /* The name to call this wallet */
     const std::string walletName = "GreenWallet";
@@ -33,10 +33,10 @@ namespace WalletConfig
     const std::string walletdName = "walletd";
 
     /* The full name of your crypto */
-    const std::string coinName = "EvilMorty";
+    const std::string coinName = "Evilbit";
 
     /* Where can your users contact you for support? E.g. discord */
-    const std::string contactLink = "https://t.me/evilmorty";
+    const std::string contactLink = "https://t.me/evilbit_pro";
 
     /* The number of decimals your coin has */
     const int numDecimalPlaces = CryptoNote::parameters
